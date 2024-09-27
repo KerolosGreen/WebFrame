@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import './navbar.css';
+import './Navbar.css';
 const Navbar =()=>{
     return(
         <nav className="flex justify-between items-center w-full h-[60px] text-white border-slate-700 px-[10px] md:px-[20px] lg:px-[40px] bg-[#2E2E2E]">

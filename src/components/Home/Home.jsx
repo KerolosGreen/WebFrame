@@ -16,7 +16,7 @@ const Home = ()=>{
         </Link>
         </div>
 
-        <div className="w-full md:w-[60%] lg:w-[60%] h-full bebas-neue-regular bg-[url('/src\assets\Target.png')] bg-cover z-[-1]">
+        <div className="w-full md:w-[60%] lg:w-[60%] h-full bebas-neue-regular bg-[url('/src/assets/Target.png')] bg-cover z-[-1]">
         </div>
 
         </div>

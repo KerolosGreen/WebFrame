@@ -28,7 +28,7 @@ Styled with Tailwind CSS, Web Frame offers a sleek, intuitive, and responsive in
 Our mission is to provide a hassle-free experience for professionals looking to capture accurate and high-quality website snapshots, with the flexibility and control to tailor every image to their needs.
 
 Whether you're preparing a client presentation, building a portfolio, or testing responsive designs, Web Frame is here to streamline the process.</p>
-            <img className="max-w-[80%] md:max-w-[40%]" src="src/assets/About.png"/>
+            <img className="max-w-[80%] md:max-w-[40%]" src="/About.png"/>
 
         </div>
     )

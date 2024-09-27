@@ -50,7 +50,7 @@ const Start = ({setimgurl,setmobileview,mobileview})=>{
             <div className="absolute flex flex-col justify-center items-center top-0 left-0 h-[100vh] w-full backdrop-blur-md z-[2] transition-all"><img src="./src\assets\webframeloading-2.gif" alt="" width={"80px"}/><h3 className="text-lg font-bold">Taking Your Frame</h3></div>
         )}
         <div className="flex flex-col items-center justify-start md:justify-center lg:justify-center w-full h-[calc(100vh-60px)] bg-[#e1dfca] px-2 py-2 z-[10]">
-            <img className="md:absolute md:left-[-100px] w-[70%] md:w-[40%] lg:[350px] z-[1]" src="src/assets/Mobiles.png"/>
+            <img className="md:absolute md:left-[-100px] w-[70%] md:w-[40%] lg:[350px] z-[1]" src="/Mobiles.png"/>
             <h3 className="font-bold text-3xl m-4">Take a Frame Now</h3>
             <Url url={url} seturl={seturl}/>
             {mobileview?<MobileSelect mob_device={mob_device} setmob_device={setmob_device} />:<PcResolution pcres={pcres} setpcres={setpcres} />}

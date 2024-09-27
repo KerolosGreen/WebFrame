@@ -8,7 +8,7 @@ export default defineConfig({
       '/api': {
         target: 'http://valoapi.hopto.org',
         changeOrigin: true,
-        secure: false,  // It's HTTP, so we set secure to false
+        secure: false,  // Since it's HTTP
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
     },

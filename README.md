@@ -87,9 +87,9 @@ Feel free to explore Web Frame and see how it can improve your workflow!
 ### Contact 📧
 
 If you have any questions, feedback, or would like to collaborate, feel free to reach out:
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [kerolossafwat41@gmail.com](mailto:kerolossafwat41@gmail.com)
+- **GitHub**: [KerolosGreen](https://github.com/KerolosGreen)
+- **LinkedIn**: [kerolos-safwat-gr](https://linkedin.com/in/kerolos-safwat-gr)
 
 ---
 

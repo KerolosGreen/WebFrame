@@ -21,7 +21,7 @@ const Start = ({setimgurl,setmobileview,mobileview})=>{
         const pc_width = pcres.split('x')[0];
         const pc_height = pcres.split('x')[1];
         // console.log(mobileview,fullpage,url,pc_height,pc_width,mob_device);
-        axios.post('http://valoapi.hopto.org/screenshot',
+        axios.post('https://web-frame.kerolos-safwat.me/screenshot',
                 {
                     "url": url,
                     "screen_width": pc_width,

@@ -20,7 +20,7 @@ const Start = ({setimgurl,setmobileview,mobileview})=>{
         settakingframe(true)
         const pc_width = pcres.split('x')[0];
         const pc_height = pcres.split('x')[1];
-        console.log(mobileview,fullpage,url,pc_height,pc_width,mob_device);
+        // console.log(mobileview,fullpage,url,pc_height,pc_width,mob_device);
         axios.post('https://api.kerolos-safwat.me/screenshot',
                 {
                     "url": url,

@@ -18,8 +18,8 @@ const Start = ({setimgurl,setmobileview,mobileview})=>{
 
     const Take_frame_req = ()=>{
         settakingframe(true)
-        var pc_width = pcres.split('x')[0];
-        var pc_height = pcres.split('x')[1];
+        const pc_width = pcres.split('x')[0];
+        const pc_height = pcres.split('x')[1];
         console.log(mobileview,fullpage,url,pc_height,pc_width,mob_device);
         axios.post('https://api.kerolos-safwat.me/screenshot',
                 {

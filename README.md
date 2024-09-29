@@ -1,4 +1,5 @@
 # Web Frame 📸
+<img src="src/assets/Target.png"/>
 
 ## Overview
 **Web Frame** is a powerful tool designed for capturing high-quality website screenshots with a variety of customizable options. Whether you’re a designer preparing mockups, a developer testing website responsiveness, or simply in need of precise web snapshots, Web Frame provides a simple, user-friendly interface to get the job done efficiently.

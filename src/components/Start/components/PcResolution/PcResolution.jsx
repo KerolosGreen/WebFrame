@@ -8,9 +8,9 @@ const PcResolution = ({pcres,setpcres})=>{
             <select id="countries" className="bg-gray-50 border border-gray-400 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-[60%] p-2.5" onChange={hande_select_pcres}>
             <option defaultValue disabled>Choose a Resolution</option>
             <option value="1920x1080">1920 x 1080</option>
-            <option value="1366×768">1366 × 768</option>
-            <option value="1280×1024">1280 × 1024</option>
-            <option value="1440×900">1440 × 900</option>
+            <option value="1366x768">1366 × 768</option>
+            <option value="1280x1024">1280 × 1024</option>
+            <option value="1440x900">1440 × 900</option>
             </select>
         </div>
     )

@@ -17,6 +17,8 @@ const Start = ({setimgurl,setmobileview,mobileview})=>{
     const navigate = useNavigate();
 
     const Take_frame_req = ()=>{
+window.alert('Sorry , WebFrame Is Not Available At The Moment');
+return 0;
         settakingframe(true)
         const pc_width = pcres.split('x')[0];
         const pc_height = pcres.split('x')[1];
